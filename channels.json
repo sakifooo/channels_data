@@ -3,11 +3,11 @@
     "country": "Live Matches",
     "channels": [
       {
-        "name": "🔴 Real Madrid vs Barcelona (La Liga)",
+        "name": "🔴 spain vs portugal (world cup)",
         "url": "https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8"
       },
       {
-        "name": "🔴 Manchester City vs Arsenal (Premier League)",
+        "name": "🔴 usa vs belgique (world cup)",
         "url": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8"
       }
     ]
