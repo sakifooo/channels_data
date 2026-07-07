@@ -4,7 +4,7 @@
     "channels": [
       {
         "name": "🔴 spain vs portugal (world cup)",
-        "url": "m3u8"
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/4033.m3u8"
       },
       {
         "name": "🔴 usa vs belgique (world cup)",
@@ -16,44 +16,262 @@
     "country": "Morocco",
     "channels": [
       {
-        "name": "2M Monde +1 (1080p)",
-        "url": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8"
+        "name": "MA|2M NAT",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/228686.m3u8",
+        "stream_id": 228686,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/2m%20tnt.png"
       },
       {
-        "name": "Al Maghribia (1080p)",
-        "url": "http://185.9.2.18/chid_205/index.m3u8"
+        "name": "MA|2M MONDE",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/228687.m3u8",
+        "stream_id": 228687,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/2m%20tnt.png"
       },
       {
-        "name": "Arryadia (720p)",
-        "url": "https://snrt.player.easybroadcast.io/events/73_arryadia_k2tgcj0"
+        "name": "MA|2M MAROC (TNT)",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/178458.m3u8",
+        "stream_id": 178458,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/2m%20tnt.png"
       },
       {
-        "name": "Tamazight (720p)",
-        "url": "https://snrt.player.easybroadcast.io/events/73_tamazight_tccybxt"
+        "name": "MA|2M TV (TNT)",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/14988.m3u8",
+        "stream_id": 14988,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/2m%20tnt.png"
       },
       {
-        "name": "Assadissa (720p)",
-        "url": "https://snrt.player.easybroadcast.io/events/73_assadissa_7b7u5n1"
+        "name": "MA|Al AOULA INTER HD",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/228688.m3u8",
+        "stream_id": 228688,
+        "logo": ""
       },
       {
-        "name": "Aloula (720p)",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/3326.m3u8"
+        "name": "MA|Al AOULA INTER 4K",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/228685.m3u8",
+        "stream_id": 228685,
+        "logo": ""
       },
       {
-        "name": "MBC 5 (1080p)",
-        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8"
+        "name": "MA|Al AOULA HD (TNT)",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/1589.m3u8",
+        "stream_id": 1589,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/al%20oula%20inter%20hd.png"
       },
       {
-        "name": "Medi1TV Afrique (1080p)",
-        "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8"
+        "name": "MA|AL AOULA FHD (TNT)",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/3326.m3u8",
+        "stream_id": 3326,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/al%20oula%20tnt%20hd.png"
       },
       {
-        "name": "Medi 1 TV Arabic (1080p)",
-        "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8"
+        "name": "MA |AFLAM TNT",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/203210.m3u8",
+        "stream_id": 203210,
+        "logo": ""
       },
       {
-        "name": "Medi 1 TV Maghreb (1080p)",
-        "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8"
+        "name": "MA| LAAYOUNE HD (TNT)",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/64915.m3u8",
+        "stream_id": 64915,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MOROOCO/ALOUYOUN.png"
+      },
+      {
+        "name": "MA|LAAYOUNE FHD (TNT)",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/164630.m3u8",
+        "stream_id": 164630,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MOROOCO/ALOUYOUN.png"
+      },
+      {
+        "name": "MA|AFLAM TV HD (TNT)",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/3327.m3u8",
+        "stream_id": 3327,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/aflam7%20hd.png"
+      },
+      {
+        "name": "MA |ARRYADIA TNT",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/185112.m3u8",
+        "stream_id": 185112,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/arriyadia%20hevc.png"
+      },
+      {
+        "name": "AR|ARRYADIA LIVE HD",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/238657.m3u8",
+        "stream_id": 238657,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/arriyadia%20hd.png"
+      },
+      {
+        "name": "MA|ARRYADIA HD",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/1588.m3u8",
+        "stream_id": 1588,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/arriyadia%20hd.png"
+      },
+      {
+        "name": "MA|ARRYADIA FHD (TNT)",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/55547.m3u8",
+        "stream_id": 55547,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/arriyadia%20hevc.png"
+      },
+      {
+        "name": "AR|ARRYADIA 1 HD",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/238659.m3u8",
+        "stream_id": 238659,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/arriyadia%20hd.png"
+      },
+      {
+        "name": "AR|ARRYADIA 1 FHD",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/238658.m3u8",
+        "stream_id": 238658,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/arriyadia%20hd.png"
+      },
+      {
+        "name": "AR|ARRYADIA 2 HD",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/238661.m3u8",
+        "stream_id": 238661,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/arriyadia%20hd.png"
+      },
+      {
+        "name": "AR|ARRYADIA 2 FHD",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/238660.m3u8",
+        "stream_id": 238660,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/arriyadia%20hd.png"
+      },
+      {
+        "name": "AR|ARRYADIA 3 HD",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/238663.m3u8",
+        "stream_id": 238663,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/arriyadia%20hd.png"
+      },
+      {
+        "name": "AR|ARRYADIA 3 FHD",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/238662.m3u8",
+        "stream_id": 238662,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/arriyadia%20hd.png"
+      },
+      {
+        "name": "MA |ARRYADIA OLYMPICS HD",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/222964.m3u8",
+        "stream_id": 222964,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/arriyadia%20hd.png"
+      },
+      {
+        "name": "MA | ARRYADIA OLYMPICS 4K",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/222963.m3u8",
+        "stream_id": 222963,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/arriyadia%20hd.png"
+      },
+      {
+        "name": "MA|ARRABIAA HD (TNT)",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/1014.m3u8",
+        "stream_id": 1014,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/arrabia%20tnt.png"
+      },
+      {
+        "name": "MA|ARRABIAA FHD (TNT)",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/77803.m3u8",
+        "stream_id": 77803,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/arrabia%20hevc.png"
+      },
+      {
+        "name": "MA|AL MAGHRIBIA HD (TNT)",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/1012.m3u8",
+        "stream_id": 1012,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/al%20maghribia%20hd.png"
+      },
+      {
+        "name": "MA|Al MAGHRIBIA FHD (TNT)",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/14986.m3u8",
+        "stream_id": 14986,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/al%20maghribia%20fhd.png"
+      },
+      {
+        "name": "MA|ASSADISSA HD (TNT)",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/1015.m3u8",
+        "stream_id": 1015,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/assadissa%20hd.png"
+      },
+      {
+        "name": "MA|ASSADISSA FHD (TNT)",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/55546.m3u8",
+        "stream_id": 55546,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/assadissa%20hevc.png"
+      },
+      {
+        "name": "MA|TAMAZIGHT HD (TNT)",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/1016.m3u8",
+        "stream_id": 1016,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/tamazight%20hd.png"
+      },
+      {
+        "name": "MA|TAMAZIGHT FHD (TNT)",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/164629.m3u8",
+        "stream_id": 164629,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/tamazight%20hd.png"
+      },
+      {
+        "name": "MA|MEDI1 TV MAGHREB HD (TNT)",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/1010.m3u8",
+        "stream_id": 1010,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/med1%20tv%20maghtib%20hd.png"
+      },
+      {
+        "name": "MA|MEDI1 TV MAGHREB FHD (TNT)",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/178448.m3u8",
+        "stream_id": 178448,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/med1%20tv%20maghtib%20hd.png"
+      },
+      {
+        "name": "MA|MEDI1 TV ARABIC HD (TNT)",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/74840.m3u8",
+        "stream_id": 74840,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/med1%20tv%20%20tnt.png"
+      },
+      {
+        "name": "MA|MEDI1 TV ARABIC FHD (TNT)",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/164627.m3u8",
+        "stream_id": 164627,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/med1%20tv%20%20tnt.png"
+      },
+      {
+        "name": "MA|MEDI1 TV AFRIQUE HD (TNT)",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/1587.m3u8",
+        "stream_id": 1587,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/med1%20tv%20afrique%20hd.png"
+      },
+      {
+        "name": "MA|MEDI1 TV AFRIQUE FHD (TNT)",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/178449.m3u8",
+        "stream_id": 178449,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/med1%20tv%20afrique%20hd.png"
+      },
+      {
+        "name": "MA|MBC 5 MAROC",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/81778.m3u8",
+        "stream_id": 81778,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/mbc%205.png"
+      },
+      {
+        "name": "MA|CHADA TV",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7540.m3u8",
+        "stream_id": 7540,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/CHADA%20TV.png"
+      },
+      {
+        "name": "MA|Télé Maroc",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/5688.m3u8",
+        "stream_id": 5688,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/tele%20maroc.png"
+      },
+      {
+        "name": "MA|Al Ons TV",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/73944.m3u8",
+        "stream_id": 73944,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/AL%20ONS%20TV.png"
+      },
+      {
+        "name": "MA|M24 MAROC",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/74841.m3u8",
+        "stream_id": 74841,
+        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/AL%20ONS%20TV.png"
       }
     ]
   },
@@ -1336,6 +1554,107 @@
         "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7736.m3u8",
         "stream_id": 7736,
         "logo": "http://kinglogo.newtvhd.com/logoo/LOGOMAX/HDMAX.png"
+      }
+    ]
+  },
+  {
+    "country": "ALWAN SPORT",
+    "channels": [
+      {
+        "name": "AR| ALWAN SPORT 1 HD",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/237015.m3u8",
+        "stream_id": 237015,
+        "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png"
+      },
+      {
+        "name": "AR| ALWAN SPORT 1 SD",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/237016.m3u8",
+        "stream_id": 237016,
+        "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png"
+      },
+      {
+        "name": "AR| ALWAN SPORT 1 4K",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/237014.m3u8",
+        "stream_id": 237014,
+        "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png"
+      },
+      {
+        "name": "AR| ALWAN SPORT 2 HD",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/237018.m3u8",
+        "stream_id": 237018,
+        "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png"
+      },
+      {
+        "name": "AR| ALWAN SPORT 2 SD",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/237019.m3u8",
+        "stream_id": 237019,
+        "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png"
+      },
+      {
+        "name": "AR| ALWAN SPORT 2 4K",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/237017.m3u8",
+        "stream_id": 237017,
+        "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png"
+      },
+      {
+        "name": "AR| ALWAN SPORT 3 HD",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/237021.m3u8",
+        "stream_id": 237021,
+        "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png"
+      },
+      {
+        "name": "AR| ALWAN SPORT 3 SD",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/237022.m3u8",
+        "stream_id": 237022,
+        "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png"
+      },
+      {
+        "name": "AR| ALWAN SPORT 3 4K",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/237020.m3u8",
+        "stream_id": 237020,
+        "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png"
+      },
+      {
+        "name": "AR| ALWAN SPORT 4 HD",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/237024.m3u8",
+        "stream_id": 237024,
+        "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png"
+      },
+      {
+        "name": "AR| ALWAN SPORT 4 SD",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/237025.m3u8",
+        "stream_id": 237025,
+        "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png"
+      },
+      {
+        "name": "AR| ALWAN SPORT 4 4K",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/237023.m3u8",
+        "stream_id": 237023,
+        "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png"
+      },
+      {
+        "name": "AR| ALWAN SPORT 5 HD",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/237027.m3u8",
+        "stream_id": 237027,
+        "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png"
+      },
+      {
+        "name": "AR| ALWAN SPORT 5 SD",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/237028.m3u8",
+        "stream_id": 237028,
+        "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png"
+      },
+      {
+        "name": "AR| ALWAN SPORT 5 4K",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/237026.m3u8",
+        "stream_id": 237026,
+        "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png"
+      },
+      {
+        "name": "AR| ALWAN SPORT 6 4K",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/237029.m3u8",
+        "stream_id": 237029,
+        "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png"
       }
     ]
   }
