@@ -43,13 +43,13 @@
         "name": "MA|Al AOULA INTER HD",
         "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/228688.m3u8",
         "stream_id": 228688,
-        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/al%20oula%20tnt%20hd.png"
+        "logo": ""
       },
       {
         "name": "MA|Al AOULA INTER 4K",
         "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/228685.m3u8",
         "stream_id": 228685,
-        "logo": "http://kinglogo.newtvhd.com/logoo/MAROC4K/al%20oula%20tnt%20hd.png"
+        "logo": ""
       },
       {
         "name": "MA|Al AOULA HD (TNT)",
@@ -67,7 +67,7 @@
         "name": "MA |AFLAM TNT",
         "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/203210.m3u8",
         "stream_id": 203210,
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs9XLuZOdw6BLOcTcRuOgQQ9mXeKZQj1mXTssLAkUs&s=10"
+        "logo": ""
       },
       {
         "name": "MA| LAAYOUNE HD (TNT)",
@@ -1655,6 +1655,106 @@
         "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/237029.m3u8",
         "stream_id": 237029,
         "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png"
+      }
+    ]
+  },
+  {
+    "country": "Arabic News",
+    "channels": [
+      {
+        "name": "Al Jazeera Arabic (1080p)",
+        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+        "logo": "http://kinglogo.newtvhd.com/logoo/QATAR4K/AL%20JAZEERA%20HD.png",
+        "category": "Arabic News"
+      },
+      {
+        "name": "Al Arabiya HD",
+        "url": "https://alarabiya-live.ercdn.net/alarabiya/alarabiya.m3u8",
+        "logo": "http://kinglogo.newtvhd.com/logoo/MBC4K/HD/AL%20ARABIYA%20HD.png",
+        "category": "Arabic News"
+      },
+      {
+        "name": "Al Hadath HD",
+        "url": "https://alarabiya-live.ercdn.net/alhadath/alhadath.m3u8",
+        "logo": "http://kinglogo.newtvhd.com/logoo/MBC4K/HD/AL%20HADATH%20HD.png",
+        "category": "Arabic News"
+      },
+      {
+        "name": "Sky News Arabia (1080p)",
+        "url": "https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8",
+        "logo": "http://kinglogo.newtvhd.com/logoo/ART4K/HD/sky%20news%20arabia%20hd.png",
+        "category": "Arabic News"
+      },
+      {
+        "name": "France 24 Arabic",
+        "url": "https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8",
+        "logo": "http://kinglogo.newtvhd.com/logoo/FRANCE4K/FRANCE%2024%20ARABIC.png",
+        "category": "Arabic News"
+      },
+      {
+        "name": "BBC Arabic News",
+        "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:arabic_tv/pc_hd_v_v2_6_h.m3u8",
+        "logo": "http://kinglogo.newtvhd.com/logoo/FRANCE4K/BBC%20ARABIC.png",
+        "category": "Arabic News"
+      },
+      {
+        "name": "RT Arabic HD",
+        "url": "https://rt-arabic.akamaized.net/hls/ar/2/index.m3u8",
+        "logo": "http://kinglogo.newtvhd.com/logoo/FRANCE4K/RT%20ARABIC.png",
+        "category": "Arabic News"
+      },
+      {
+        "name": "DW Arabic",
+        "url": "https://dwstream7-lh.akamaihd.net/i/dwstream7_live@123555/master.m3u8",
+        "logo": "http://kinglogo.newtvhd.com/logoo/FRANCE4K/DW%20ARABIC.png",
+        "category": "Arabic News"
+      },
+      {
+        "name": "Asharq News (1080p)",
+        "url": "https://live-news.asharq.com/asharq.m3u8",
+        "logo": "http://kinglogo.newtvhd.com/logoo/ART4K/HD/asharq%20news%20hd.png",
+        "category": "Arabic News"
+      },
+      {
+        "name": "Al Araby TV HD",
+        "url": "https://alaraby.daicast.com/live/playlist.m3u8",
+        "logo": "http://kinglogo.newtvhd.com/logoo/QATAR4K/AL%20ARABY%20HD.png",
+        "category": "Arabic News"
+      },
+      {
+        "name": "Al Ghad TV",
+        "url": "https://alghad-live.ercdn.net/alghadhd/alghadhd.m3u8",
+        "logo": "http://kinglogo.newtvhd.com/logoo/EGYPT4K/AL%20GHAD%20HD.png",
+        "category": "Arabic News"
+      }
+    ]
+  },
+  {
+    "country": "Documentaries",
+    "channels": [
+      {
+        "name": "Al Jazeera Documentary (1080p)",
+        "url": "https://live-messaging.aljazeera.net/ajd/index.m3u8",
+        "logo": "http://kinglogo.newtvhd.com/logoo/QATAR4K/AL%20JAZEERA%20DOCUMENTARY%20HD.png",
+        "category": "Documentaries"
+      },
+      {
+        "name": "Asharq Documentary (1080p)",
+        "url": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8",
+        "logo": "http://kinglogo.newtvhd.com/logoo/ART4K/HD/asharq%20documentary%20hd.png",
+        "category": "Documentaries"
+      },
+      {
+        "name": "National Geographic Abu Dhabi",
+        "url": "https://lby.freetvlive.me/natgeo.m3u8",
+        "logo": "http://kinglogo.newtvhd.com/logoo/ART4K/HD/nat%20geo%20abu%20dhabi.png",
+        "category": "Documentaries"
+      },
+      {
+        "name": "Wathaeqia TV",
+        "url": "https://live.alwathaeqya.net/hls/live.m3u8",
+        "logo": "http://kinglogo.newtvhd.com/logoo/EGYPT4K/AL%20WATHAEQIA%20HD.png",
+        "category": "Documentaries"
       }
     ]
   }
