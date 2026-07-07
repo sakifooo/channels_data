@@ -993,229 +993,349 @@
     ]
   },
   {
-    "country": "beIN SPORTS",
-    "channels": [
-      {
-        "name": "beIN SPORTS XTRA 1HD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/4033.m3u8",
-        "stream_id": 4033,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORT XTRA 1 FHD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/71695.m3u8",
-        "stream_id": 71695,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS XTRA 2HD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/4034.m3u8",
-        "stream_id": 4034,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORT XTRA 2 HD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/227441.m3u8",
-        "stream_id": 227441,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN-SPORTS XTRA 2 FHD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/71696.m3u8",
-        "stream_id": 71696,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "AR| beIN SPORTS FHD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/239672.m3u8",
-        "stream_id": 239672,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "AR| beIN SPORTS HD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/239673.m3u8",
-        "stream_id": 239673,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS HD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/237786.m3u8",
-        "stream_id": 237786,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS NEWS HD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/102546.m3u8",
-        "stream_id": 102546,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS FHD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7757.m3u8",
-        "stream_id": 7757,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 1HD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7756.m3u8",
-        "stream_id": 7756,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 1 FHD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/153582.m3u8",
-        "stream_id": 153582,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 2HD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7755.m3u8",
-        "stream_id": 7755,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 2 FHD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/153583.m3u8",
-        "stream_id": 153583,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 3HD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7749.m3u8",
-        "stream_id": 7749,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 3 FHD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/153584.m3u8",
-        "stream_id": 153584,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 4HD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7754.m3u8",
-        "stream_id": 7754,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 4 FHD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7751.m3u8",
-        "stream_id": 7751,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 5HD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7753.m3u8",
-        "stream_id": 7753,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 5 FHD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/153587.m3u8",
-        "stream_id": 153587,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 6HD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7752.m3u8",
-        "stream_id": 7752,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 6 FHD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/153588.m3u8",
-        "stream_id": 153588,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 7HD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7748.m3u8",
-        "stream_id": 7748,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 7 FHD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/153589.m3u8",
-        "stream_id": 153589,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 8HD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7750.m3u8",
-        "stream_id": 7750,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 8 FHD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/153590.m3u8",
-        "stream_id": 153590,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 9HD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7747.m3u8",
-        "stream_id": 7747,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 9 FHD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/153591.m3u8",
-        "stream_id": 153591,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 1 SD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/125319.m3u8",
-        "stream_id": 125319,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 2 SD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/125320.m3u8",
-        "stream_id": 125320,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 3 SD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/125321.m3u8",
-        "stream_id": 125321,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 4 SD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/125322.m3u8",
-        "stream_id": 125322,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 5 SD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/125323.m3u8",
-        "stream_id": 125323,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 6 SD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/125324.m3u8",
-        "stream_id": 125324,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 7 SD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/125325.m3u8",
-        "stream_id": 125325,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 8 SD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/125326.m3u8",
-        "stream_id": 125326,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
-      },
-      {
-        "name": "beIN SPORTS 9 SD",
-        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/125327.m3u8",
-        "stream_id": 125327,
-        "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
+  "country": "beIN SPORTS",
+  "channels": [
+    {
+      "name": "beIN SPORTS XTRA 1HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/4033.m3u8",
+      "stream_id": 4033,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
+    },
+    {
+      "name": "beIN SPORT XTRA 1 FHD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/71695.m3u8",
+      "stream_id": 71695,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
+    },
+    {
+      "name": "beIN SPORTS XTRA 2HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/4034.m3u8",
+      "stream_id": 4034,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
+    },
+    {
+      "name": "beIN SPORT XTRA 2 HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/227441.m3u8",
+      "stream_id": 227441,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
+    },
+    {
+      "name": "beIN-SPORTS XTRA 2 FHD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/71696.m3u8",
+      "stream_id": 71696,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
+    },
+    {
+      "name": "AR| beIN SPORTS HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/239672.m3u8",
+      "stream_id": 239672,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
+    },
+    {
+      "name": "AR| beIN SPORTS HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/239673.m3u8",
+      "stream_id": 239673,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
+    },
+    {
+      "name": "beIN SPORTS HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/237786.m3u8",
+      "stream_id": 237786,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
+    },
+    {
+      "name": "beIN SPORTS NEWS HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/102546.m3u8",
+      "stream_id": 102546,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20news%20hd.png"
+    },
+    {
+      "name": "beIN SPORTS FHD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7757.m3u8",
+      "stream_id": 7757,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png"
+    },
+    {
+      "name": "beIN SPORTS 1HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7756.m3u8",
+      "stream_id": 7756,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%201%20HD.png"
+    },
+    {
+      "name": "beIN SPORTS 1 HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/153582.m3u8",
+      "stream_id": 153582,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%201%20HD.png"
+    },
+    {
+      "name": "beIN SPORTS 2HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7755.m3u8",
+      "stream_id": 7755,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%202%20HD.png"
+    },
+    {
+      "name": "beIN SPORTS 2 HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/153583.m3u8",
+      "stream_id": 153583,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%202%20HD.png"
+    },
+    {
+      "name": "beIN SPORTS 3HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7749.m3u8",
+      "stream_id": 7749,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%203%20HD.png"
+    },
+    {
+      "name": "beIN SPORTS 3 HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/153584.m3u8",
+      "stream_id": 153584,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%203%20HD.png"
+    },
+    {
+      "name": "beIN SPORTS 4 HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7754.m3u8",
+      "stream_id": 7754,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%201%20HD.png"
+    },
+    {
+      "name": "beIN SPORTS 4HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7751.m3u8",
+      "stream_id": 7751,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%202%20HD.png"
+    },
+    {
+      "name": "beIN SPORTS 5HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7753.m3u8",
+      "stream_id": 7753,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%203%20HD.png"
+    },
+    {
+      "name": "beIN SPORTS 5 HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/153587.m3u8",
+      "stream_id": 153587,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%203%20HD.png"
+    },
+    {
+      "name": "beIN SPORTS 6HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7752.m3u8",
+      "stream_id": 7752,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%204%20HD.png"
+    },
+    {
+      "name": "beIN SPORTS 6 HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/153588.m3u8",
+      "stream_id": 153588,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%204%20HD.png"
+    },
+    {
+      "name": "beIN SPORTS 7HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7748.m3u8",
+      "stream_id": 7748,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%205%20HD.png"
+    },
+    {
+      "name": "beIN SPORTS 7 HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/153589.m3u8",
+      "stream_id": 153589,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%205%20HD.png"
+    },
+    {
+      "name": "beIN SPORTS 8HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7750.m3u8",
+      "stream_id": 7750,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%206%20HD.png"
+    },
+    {
+      "name": "beIN SPORTS 8 HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/153590.m3u8",
+      "stream_id": 153590,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%206%20HD.png"
+    },
+    {
+      "name": "beIN SPORTS 9HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7747.m3u8",
+      "stream_id": 7747,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%207%20HD.png"
+    },
+    {
+      "name": "beIN SPORTS 9 HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/153591.m3u8",
+      "stream_id": 153591,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20premium%207%20HD.png"
+    },
+    {
+      "name": "beIN SPORTS 1 SD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/125319.m3u8",
+      "stream_id": 125319,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%201%20SD.png"
+    },
+    {
+      "name": "beIN SPORTS 2 SD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/125320.m3u8",
+      "stream_id": 125320,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%202%20SD.png"
+    },
+    {
+      "name": "beIN SPORTS 3 SD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/125321.m3u8",
+      "stream_id": 125321,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%203%20SD.png"
+    },
+    {
+      "name": "beIN SPORTS 4 SD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/125322.m3u8",
+      "stream_id": 125322,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%204%20SD.png"
+    },
+    {
+      "name": "beIN SPORTS 5 SD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/125323.m3u8",
+      "stream_id": 125323,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%205%20SD.png"
+    },
+    {
+      "name": "beIN SPORTS 6 SD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/125324.m3u8",
+      "stream_id": 125324,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%206%20SD.png"
+    },
+    {
+      "name": "beIN SPORTS 7 SD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/125325.m3u8",
+      "stream_id": 125325,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%207%20SD.png"
+    },
+    {
+      "name": "beIN SPORTS 8 SD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/125326.m3u8",
+      "stream_id": 125326,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%208%20SD.png"
+    },
+    {
+      "name": "beIN SPORTS 9 SD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/125327.m3u8",
+      "stream_id": 125327,
+      "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/SD/bein%20sports%209%20SD.png"
+    },
+    {
+      "name": "BEINSPORTS MAX 1",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/227579.m3u8",
+      "stream_id": 227579,
+      "logo": "http://kinglogo.newtvhd.com/logoo/LOGOMAX/HDMAX.png"
+    },
+    {
+      "name": "BEINSPORTS MAX 2",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/227580.m3u8",
+      "stream_id": 227580,
+      "logo": "http://kinglogo.newtvhd.com/logoo/LOGOMAX/HDMAX.png"
+    },
+    {
+      "name": "FR|BEIN SPORTS MAX 4 HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7742.m3u8",
+      "stream_id": 7742,
+      "logo": "http://kinglogo.newtvhd.com/logoo/LOGOMAX/HDMAX.png"
+    },
+    {
+      "name": "FR|BEIN SPORTS MAX 4 FHD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/25989.m3u8",
+      "stream_id": 25989,
+      "logo": "http://kinglogo.newtvhd.com/logoo/LOGOMAX/FHDMAX.png"
+    },
+    {
+      "name": "FR| BEIN SPORTS MAX 4 SD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/128998.m3u8",
+      "stream_id": 128998,
+      "logo": "http://kinglogo.newtvhd.com/logoo/LOGOMAX/SDMAX.png"
+    },
+    {
+      "name": "FR|BEIN SPORTS MAX 5 HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7741.m3u8",
+      "stream_id": 7741,
+      "logo": "http://kinglogo.newtvhd.com/logoo/LOGOMAX/HDMAX.png"
+    },
+    {
+      "name": "FR| BEIN SPORTS MAX 5 SD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/128999.m3u8",
+      "stream_id": 128999,
+      "logo": "http://kinglogo.newtvhd.com/logoo/LOGOMAX/SDMAX.png"
+    },
+    {
+      "name": "FR|BEIN SPORTS MAX 5 FHD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/25988.m3u8",
+      "stream_id": 25988,
+      "logo": "http://kinglogo.newtvhd.com/logoo/LOGOMAX/FHDMAX.png"
+    },
+    {
+      "name": "FR|BEIN SPORTS MAX 6 HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7740.m3u8",
+      "stream_id": 7740,
+      "logo": "http://kinglogo.newtvhd.com/logoo/LOGOMAX/HDMAX.png"
+    },
+    {
+      "name": "FR| BEIN SPORTS MAX 6 SD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/129000.m3u8",
+      "stream_id": 129000,
+      "logo": "http://kinglogo.newtvhd.com/logoo/LOGOMAX/SDMAX.png"
+    },
+    {
+      "name": "FR|BEIN SPORTS MAX 6 FHD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/25987.m3u8",
+      "stream_id": 25987,
+      "logo": "http://kinglogo.newtvhd.com/logoo/LOGOMAX/FHDMAX.png"
+    },
+    {
+      "name": "FR|BEIN SPORTS MAX 7 HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7739.m3u8",
+      "stream_id": 7739,
+      "logo": "http://kinglogo.newtvhd.com/logoo/LOGOMAX/HDMAX.png"
+    },
+    {
+      "name": "FR|BEIN SPORTS MAX 7 FHD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/25986.m3u8",
+      "stream_id": 25986,
+      "logo": "http://kinglogo.newtvhd.com/logoo/LOGOMAX/FHDMAX.png"
+    },
+    {
+      "name": "FR|BEIN SPORTS MAX 8 HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7738.m3u8",
+      "stream_id": 7738,
+      "logo": "http://kinglogo.newtvhd.com/logoo/LOGOMAX/HDMAX.png"
+    },
+    {
+      "name": "FR| BEIN SPORTS MAX 8 SD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/129002.m3u8",
+      "stream_id": 129002,
+      "logo": "http://kinglogo.newtvhd.com/logoo/LOGOMAX/SDMAX.png"
+    },
+    {
+      "name": "FR|beIN SPORTS MAX 8 FHD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/25985.m3u8",
+      "stream_id": 25985,
+      "logo": "http://kinglogo.newtvhd.com/logoo/LOGOMAX/FHDMAX.png"
+    },
+    {
+      "name": "FR|BEIN SPORTS MAX 9 HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7737.m3u8",
+      "stream_id": 7737,
+      "logo": "http://kinglogo.newtvhd.com/logoo/LOGOMAX/HDMAX.png"
+    },
+    {
+      "name": "FR| BEIN SPORTS MAX 9 SD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/129003.m3u8",
+      "stream_id": 129003,
+      "logo": "http://kinglogo.newtvhd.com/logoo/LOGOMAX/SDMAX.png"
+    },
+    {
+      "name": "FR|BEIN SPORTS MAX 9 FHD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/25984.m3u8",
+      "stream_id": 25984,
+      "logo": "http://kinglogo.newtvhd.com/logoo/LOGOMAX/FHDMAX.png"
+    },
+    {
+      "name": "FR|BEIN SPORTS MAX 10 HD",
+      "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/7736.m3u8",
+      "stream_id": 7736,
+      "logo": "http://kinglogo.newtvhd.com/logoo/LOGOMAX/HDMAX.png"
       }
     ]
   }
