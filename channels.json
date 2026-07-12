@@ -3,22 +3,22 @@
     "country": "Live Matches",
     "channels": [
       {
-        "name": "🔴 norway vs england (World Cup)",
+        "name": "🔴 a vs b (World Cup)",
         "streams": [
           {
             "name": "Server 1",
             "player": "m3u8",
-            "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/237016.m3u8"
+            "url": "ff"
           },
           {
             "name": "Server 2",
             "player": "iframe",
-            "url": "https://ttt.thgi.online/albaplayer/max1/"
+            "url": "gg"
           },
           {
             "name": "Server 3",
             "player": "iframe",
-            "url": "https://go.pkju.online/albaplayer/max1/"
+            "url": "hh"
           }
         ]
       }
