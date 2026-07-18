@@ -3,24 +3,12 @@
     "country": "Live Matches",
     "channels": [
       {
-        "name": "🔴 a vs b (World Cup)",
-        "streams": [
-          {
-            "name": "Server 1",
-            "player": "m3u8",
-            "url": "ff"
-          },
-          {
-            "name": "Server 2",
-            "player": "iframe",
-            "url": "gg"
-          },
-          {
-            "name": "Server 3",
-            "player": "iframe",
-            "url": "hh"
-          }
-        ]
+        "name": "🔴 spain vs portugal (world cup)",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/4033.m3u8"
+      },
+      {
+        "name": "🔴 usa vs belgique (world cup)",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/71695.m3u8"
       }
     ]
   },
@@ -1667,6 +1655,47 @@
         "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/237029.m3u8",
         "stream_id": 237029,
         "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png"
+      }
+    ]
+  },
+  {
+    "country": "THMANYAH",
+    "channels": [
+      {
+        "name": "AR| THMANYAH 1ᴴᴰ",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/236894.m3u8",
+        "stream_id": 236894,
+        "logo": "https://thmanyah.com/apple-touch-icon-180x180.png"
+      },
+      {
+        "name": "AR| THMANYAH 1ˢᴰ",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/236891.m3u8",
+        "stream_id": 236891,
+        "logo": "https://thmanyah.com/apple-touch-icon-180x180.png"
+      },
+      {
+        "name": "AR| THMANYAH 2ᴴᴰ",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/236895.m3u8",
+        "stream_id": 236895,
+        "logo": "https://thmanyah.com/apple-touch-icon-180x180.png"
+      },
+      {
+        "name": "AR| THMANYAH 2ˢᴰ",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/236892.m3u8",
+        "stream_id": 236892,
+        "logo": "https://thmanyah.com/apple-touch-icon-180x180.png"
+      },
+      {
+        "name": "AR| THMANYAH 3ᴴᴰ",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/236896.m3u8",
+        "stream_id": 236896,
+        "logo": "https://thmanyah.com/apple-touch-icon-180x180.png"
+      },
+      {
+        "name": "AR| THMANYAH 3ˢᴰ",
+        "url": "http://t77ert.top:8080/live/190449942528177/UCoJgCCNnaK87n8/236893.m3u8",
+        "stream_id": 236893,
+        "logo": "https://thmanyah.com/apple-touch-icon-180x180.png"
       }
     ]
   },
