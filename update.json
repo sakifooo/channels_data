@@ -1,6 +1,6 @@
 {
   "update": {
-    "enabled": false,
+    "enabled": true,
     "force": false,
     "version": "1.0.0",
     "title": "تحديث | Update",
