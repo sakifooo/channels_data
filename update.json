@@ -1,7 +1,7 @@
 {
   "update": {
     "enabled": true,
-    "force": false,
+    "force": true,
     "version": "1.0.0",
     "title": "تحديث | Update",
     "message": "يتوفر إصدار جديد من Tinghir TV. يرجى تحديث التطبيق للاستفادة من أحدث التحسينات.",
