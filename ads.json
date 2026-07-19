@@ -12,7 +12,7 @@
     },
     "tv": {
       "banner": false,
-      "interstitial": false,
+      "interstitial": true,
       "app_open": false
     }
   }
