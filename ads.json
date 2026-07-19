@@ -1,12 +1,14 @@
 {
-  "ads_enabled": true,
-  "banner_enabled": true,
-  "interstitial_enabled": true,
-  "rewarded_enabled": false,
-
-  "banner_refresh_seconds": 30,
-  "interstitial_every": 3,
-
-  "banner_placement": "home",
-  "interstitial_placement": "player_exit"
+  "ads": {
+    "phone": {
+      "banner": false,
+      "interstitial": true,
+      "app_open": true
+    },
+    "tv": {
+      "banner": false,
+      "interstitial": false,
+      "app_open": false
+    }
+  }
 }
