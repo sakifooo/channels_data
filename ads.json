@@ -11,9 +11,9 @@
       "app_open": true
     },
     "tv": {
-      "banner": false,
+      "banner": true,
       "interstitial": true,
-      "app_open": false
+      "app_open": true
     }
   }
 }
