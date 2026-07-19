@@ -5,6 +5,11 @@
       "interstitial": true,
       "app_open": true
     },
+    "tablet": {
+      "banner": false,
+      "interstitial": true,
+      "app_open": true
+    },
     "tv": {
       "banner": false,
       "interstitial": false,
