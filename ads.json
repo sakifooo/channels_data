@@ -2,7 +2,7 @@
   "ads": {
     "phone": {
       "banner": false,
-      "interstitial": false,
+      "interstitial": true,
       "app_open": true
     },
     "tablet": {
