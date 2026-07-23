@@ -7,8 +7,8 @@
     },
     "tablet": {
       "banner": false,
-      "interstitial":false,
-      "app_open": false
+      "interstitial":true,
+      "app_open": true
     },
     "tv": {
       "banner": true,
