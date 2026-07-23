@@ -2,13 +2,13 @@
   "ads": {
     "phone": {
       "banner": false,
-      "interstitial": true,
-      "app_open": true
+      "interstitial": false,
+      "app_open": false
     },
     "tablet": {
       "banner": false,
-      "interstitial": true,
-      "app_open": true
+      "interstitial":false,
+      "app_open": false
     },
     "tv": {
       "banner": true,
