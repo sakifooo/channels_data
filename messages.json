@@ -1,9 +1,9 @@
 {
   "welcome": {
-    "enabled": true,
+    "enabled": false,
     "title": "Welcome",
     "message": "Welcome to Tinghir TV",
-    "show_once": false
+    "show_once": true
   },
 
   "announcement": {
