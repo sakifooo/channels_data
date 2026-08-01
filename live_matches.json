@@ -1,60 +1,92 @@
 {
   "enabled": true,
-  "title": "Courses",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg",
+  "title": "Live Matches",
+  "logo": "https://yourdomain.com/live.png",
   "order": 1,
-  "auto_refresh": false,
+  "auto_refresh": true,
+  "refresh_interval": 60,
 
-  "videos": [
+  "matches": [
     {
       "id": 1,
       "enabled": true,
       "hidden": false,
       "order": 1,
-      "category": "Test",
-      "title": "Never Gonna Give You Up",
-      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+
+      "competition": "UEFA Champions League",
+      "competition_logo": "https://example.com/ucl.png",
+
+      "home_team": "Real Madrid",
+      "home_logo": "https://example.com/real.png",
+
+      "away_team": "Barcelona",
+      "away_logo": "https://example.com/barca.png",
+
+      "match_time": "20:00",
+      "match_date": "2026-08-02",
+
+      "status": "LIVE",
+      "minute": "65",
+
+      "language": "Arabic",
+
+      "thumbnail": "https://example.com/match.jpg",
+
       "servers": [
         {
-          "name": "YouTube",
-          "type": "iframe",
-          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&playsinline=1",
+          "name": "Server 1",
+          "type": "m3u8",
+          "url": "https://example.com/live1.m3u8",
           "priority": 1,
           "enabled": true
+        },
+        {
+          "name": "Server 2",
+          "type": "ts",
+          "url": "https://example.com/live2.ts",
+          "priority": 2,
+          "enabled": true
+        },
+        {
+          "name": "Server 3",
+          "type": "iframe",
+          "url": "https://example.com/embed",
+          "priority": 3,
+          "enabled": false
         }
       ]
     },
+
     {
       "id": 2,
       "enabled": true,
       "hidden": false,
       "order": 2,
-      "category": "Test",
-      "title": "Big Buck Bunny",
-      "thumbnail": "https://img.youtube.com/vi/aqz-KE-bpKQ/maxresdefault.jpg",
+
+      "competition": "Premier League",
+      "competition_logo": "https://example.com/epl.png",
+
+      "home_team": "Manchester City",
+      "home_logo": "https://example.com/city.png",
+
+      "away_team": "Liverpool",
+      "away_logo": "https://example.com/liverpool.png",
+
+      "match_time": "18:30",
+      "match_date": "2026-08-02",
+
+      "status": "UPCOMING",
+      "minute": "",
+
+      "language": "Arabic",
+
+      "thumbnail": "https://example.com/eplmatch.jpg",
+
       "servers": [
         {
-          "name": "YouTube",
-          "type": "iframe",
-          "url": "https://www.youtube.com/embed/aqz-KE-bpKQ?autoplay=1&playsinline=1",
-          "priority": 1,
-          "enabled": true
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "enabled": true,
-      "hidden": false,
-      "order": 3,
-      "category": "Test",
-      "title": "YouTube API Demo",
-      "thumbnail": "https://img.youtube.com/vi/M7lc1UVf-VE/maxresdefault.jpg",
-      "servers": [
-        {
-          "name": "YouTube",
-          "type": "iframe",
-          "url": "https://www.youtube.com/embed/M7lc1UVf-VE?autoplay=1&playsinline=1",
+          "name": "Server 1",
+          "type": "m3u8",
+          "url": "https://example.com/epl.m3u8",
           "priority": 1,
           "enabled": true
         }
