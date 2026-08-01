@@ -1,25 +1,81 @@
 {
   "categories": [
     {
-      "id": "sports",
+      "id": "bein_sports",
       "name": "beIN SPORTS",
       "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20news%20hd.png",
       "enabled": true,
       "order": 1
     },
     {
-      "id": "sports",
+      "id": "alwan_sport",
       "name": "ALWAN SPORT",
       "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png",
       "enabled": true,
       "order": 2
     },
     {
-      "id": "sports",
+      "id": "thmanyah",
       "name": "THMANYAH",
       "logo": "https://www.wzufa.com/wp-content/uploads/2025/07/Thmanyah.png",
       "enabled": true,
       "order": 3
+    },
+    {
+      "id": "morocco",
+      "name": "MOROCCO",
+      "logo": "https://flagcdn.com/w320/ma.png",
+      "enabled": true,
+      "order": 4
+    },
+    {
+      "id": "algeria",
+      "name": "ALGERIA",
+      "logo": "https://flagcdn.com/w320/dz.png",
+      "enabled": true,
+      "order": 5
+    },
+    {
+      "id": "tunisia",
+      "name": "TUNISIA",
+      "logo": "https://flagcdn.com/w320/tn.png",
+      "enabled": true,
+      "order": 6
+    },
+    {
+      "id": "libya",
+      "name": "LIBYA",
+      "logo": "https://flagcdn.com/w320/ly.png",
+      "enabled": true,
+      "order": 7
+    },
+    {
+      "id": "egypt",
+      "name": "EGYPT",
+      "logo": "https://flagcdn.com/w320/eg.png",
+      "enabled": true,
+      "order": 8
+    },
+    {
+      "id": "saudi_arabia",
+      "name": "SAUDI ARABIA",
+      "logo": "https://flagcdn.com/w320/sa.png",
+      "enabled": true,
+      "order": 9
+    },
+    {
+      "id": "united_arab_emirates",
+      "name": "UNITED ARAB EMIRATES",
+      "logo": "https://flagcdn.com/w320/ae.png",
+      "enabled": true,
+      "order": 10
+    },
+    {
+      "id": "qatar",
+      "name": "QATAR",
+      "logo": "https://flagcdn.com/w320/qa.png",
+      "enabled": true,
+      "order": 11
     }
   ]
 }
