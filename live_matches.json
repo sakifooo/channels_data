@@ -8,62 +8,14 @@
     {
       "id": 1,
       "title": "FACELESS Videos 100% Automated (Make, ChatGPT, ElevenLabs)",
-      "type": "youtube",
+      "type": "iframe",
       "url": "https://www.youtube.com/embed/ZHeDsV7diMw"
     },
     {
       "id": 2,
-      "title": "Top AI Tools for Video Creation",
-      "type": "youtube",
-      "url": "https://www.youtube.com/embed/Mp5krKaaqy8"
-    },
-    {
-      "id": 3,
-      "title": "Runway AI Tutorial for Beginners",
-      "type": "youtube",
-      "url": "https://www.youtube.com/embed/c38vtLw1nSk"
-    },
-    {
-      "id": 4,
-      "title": "Google Veo 3 Complete Tutorial",
-      "type": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Google+Veo+3+Complete+Tutorial"
-    },
-    {
-      "id": 5,
-      "title": "Kling AI Full Course",
-      "type": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Kling+AI+Full+Course"
-    },
-    {
-      "id": 6,
-      "title": "ElevenLabs AI Voice Tutorial",
-      "type": "youtube",
-      "url": "https://www.youtube.com/results?search_query=ElevenLabs+AI+Tutorial"
-    },
-    {
-      "id": 7,
-      "title": "ChatGPT + AI YouTube Automation (Full Guide)",
-      "type": "youtube",
-      "url": "https://www.youtube.com/results?search_query=ChatGPT+YouTube+Automation"
-    },
-    {
-      "id": 8,
-      "title": "Pika AI Complete Tutorial",
-      "type": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Pika+AI+Tutorial"
-    },
-    {
-      "id": 9,
-      "title": "CapCut AI Video Editing Tutorial",
-      "type": "youtube",
-      "url": "https://www.youtube.com/results?search_query=CapCut+AI+Video+Editing"
-    },
-    {
-      "id": 10,
-      "title": "How to Make Faceless YouTube Videos with AI",
-      "type": "youtube",
-      "url": "https://www.youtube.com/results?search_query=How+to+Make+Faceless+YouTube+Videos+with+AI"
+      "title": "FACELESS Videos 100% Automated (Airtable, ChatGPT, ElevenLabs)",
+      "type": "iframe",
+      "url": "https://www.youtube.com/embed/ErRD0aerBFA"
     }
   ]
 }
