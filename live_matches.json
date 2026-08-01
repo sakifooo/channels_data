@@ -9,13 +9,13 @@
       "id": 1,
       "title": "FACELESS Videos 100% Automated (Make, ChatGPT, ElevenLabs)",
       "type": "iframe",
-      "url": "https://www.youtube.com/embed/ZHeDsV7diMw"
+      "iframe": "<iframe width=\"100%\" height=\"100%\" src=\"https://www.youtube.com/embed/ZHeDsV7diMw?autoplay=1&rel=0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
     },
     {
       "id": 2,
       "title": "FACELESS Videos 100% Automated (Airtable, ChatGPT, ElevenLabs)",
       "type": "iframe",
-      "url": "https://www.youtube.com/embed/ErRD0aerBFA"
+      "iframe": "<iframe width=\"100%\" height=\"100%\" src=\"https://www.youtube.com/embed/ErRD0aerBFA?autoplay=1&rel=0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen\" allowfullscreen></iframe>"
     }
   ]
 }
