@@ -1,96 +1,69 @@
 {
   "enabled": true,
-  "title": "Live Matches",
+  "title": "Courses",
   "logo": "https://yourdomain.com/live.png",
-  "order": 1,
-  "auto_refresh": true,
-  "refresh_interval": 60,
-
-  "matches": [
+  "layout": "grid",
+  "columns": 2,
+  "items": [
     {
       "id": 1,
-      "enabled": true,
-      "hidden": false,
-      "order": 1,
-
-      "competition": "UEFA Champions League",
-      "competition_logo": "https://example.com/ucl.png",
-
-      "home_team": "Real Madrid",
-      "home_logo": "https://example.com/real.png",
-
-      "away_team": "Barcelona",
-      "away_logo": "https://example.com/barca.png",
-
-      "match_time": "20:00",
-      "match_date": "2026-08-02",
-
-      "status": "LIVE",
-      "minute": "65",
-
-      "language": "Arabic",
-
-      "thumbnail": "https://example.com/match.jpg",
-
-      "servers": [
-        {
-          "name": "Server 1",
-          "type": "m3u8",
-          "url": "https://example.com/live1.m3u8",
-          "priority": 1,
-          "enabled": true
-        },
-        {
-          "name": "Server 2",
-          "type": "ts",
-          "url": "https://example.com/live2.ts",
-          "priority": 2,
-          "enabled": true
-        },
-        {
-          "name": "Server 3",
-          "type": "iframe",
-          "url": "https://example.com/embed",
-          "priority": 3,
-          "enabled": false
-        }
-      ]
+      "title": "FACELESS Videos 100% Automated (Make, ChatGPT, ElevenLabs)",
+      "type": "youtube",
+      "url": "https://www.youtube.com/embed/ZHeDsV7diMw"
     },
-
     {
       "id": 2,
-      "enabled": true,
-      "hidden": false,
-      "order": 2,
-
-      "competition": "Premier League",
-      "competition_logo": "https://example.com/epl.png",
-
-      "home_team": "Manchester City",
-      "home_logo": "https://example.com/city.png",
-
-      "away_team": "Liverpool",
-      "away_logo": "https://example.com/liverpool.png",
-
-      "match_time": "18:30",
-      "match_date": "2026-08-02",
-
-      "status": "UPCOMING",
-      "minute": "",
-
-      "language": "Arabic",
-
-      "thumbnail": "https://example.com/eplmatch.jpg",
-
-      "servers": [
-        {
-          "name": "Server 1",
-          "type": "m3u8",
-          "url": "https://example.com/epl.m3u8",
-          "priority": 1,
-          "enabled": true
-        }
-      ]
+      "title": "Top AI Tools for Video Creation",
+      "type": "youtube",
+      "url": "https://www.youtube.com/embed/Mp5krKaaqy8"
+    },
+    {
+      "id": 3,
+      "title": "Runway AI Tutorial for Beginners",
+      "type": "youtube",
+      "url": "https://www.youtube.com/embed/c38vtLw1nSk"
+    },
+    {
+      "id": 4,
+      "title": "Google Veo 3 Complete Tutorial",
+      "type": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Google+Veo+3+Complete+Tutorial"
+    },
+    {
+      "id": 5,
+      "title": "Kling AI Full Course",
+      "type": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kling+AI+Full+Course"
+    },
+    {
+      "id": 6,
+      "title": "ElevenLabs AI Voice Tutorial",
+      "type": "youtube",
+      "url": "https://www.youtube.com/results?search_query=ElevenLabs+AI+Tutorial"
+    },
+    {
+      "id": 7,
+      "title": "ChatGPT + AI YouTube Automation (Full Guide)",
+      "type": "youtube",
+      "url": "https://www.youtube.com/results?search_query=ChatGPT+YouTube+Automation"
+    },
+    {
+      "id": 8,
+      "title": "Pika AI Complete Tutorial",
+      "type": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Pika+AI+Tutorial"
+    },
+    {
+      "id": 9,
+      "title": "CapCut AI Video Editing Tutorial",
+      "type": "youtube",
+      "url": "https://www.youtube.com/results?search_query=CapCut+AI+Video+Editing"
+    },
+    {
+      "id": 10,
+      "title": "How to Make Faceless YouTube Videos with AI",
+      "type": "youtube",
+      "url": "https://www.youtube.com/results?search_query=How+to+Make+Faceless+YouTube+Videos+with+AI"
     }
   ]
 }
