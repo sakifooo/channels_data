@@ -3,25 +3,25 @@
     {
       "title": "Facebook",
       "enabled": true,
-      "icon": "facebook",
+      "icon": "https://cdn.simpleicons.org/facebook/1877F2",
       "url": "https://facebook.com/yourpage"
     },
     {
       "title": "Telegram",
       "enabled": true,
-      "icon": "telegram",
+      "icon": "https://cdn.simpleicons.org/telegram/26A5E4",
       "url": "https://t.me/yourchannel"
     },
     {
       "title": "Contact Us",
       "enabled": true,
-      "icon": "email",
+      "icon": "https://cdn.simpleicons.org/gmail/EA4335",
       "url": "mailto:contact@tinghirtv.site"
     },
     {
       "title": "Website",
       "enabled": true,
-      "icon": "language",
+      "icon": "https://cdn.simpleicons.org/googlechrome/4285F4",
       "url": "https://tinghirtv.site"
     }
   ]
