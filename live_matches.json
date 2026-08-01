@@ -1,0 +1,96 @@
+{
+  "enabled": true,
+  "title": "Live Matches",
+  "logo": "https://yourdomain.com/live.png",
+  "order": 1,
+  "auto_refresh": true,
+  "refresh_interval": 60,
+
+  "matches": [
+    {
+      "id": 1,
+      "enabled": true,
+      "hidden": false,
+      "order": 1,
+
+      "competition": "UEFA Champions League",
+      "competition_logo": "https://example.com/ucl.png",
+
+      "home_team": "Real Madrid",
+      "home_logo": "https://example.com/real.png",
+
+      "away_team": "Barcelona",
+      "away_logo": "https://example.com/barca.png",
+
+      "match_time": "20:00",
+      "match_date": "2026-08-02",
+
+      "status": "LIVE",
+      "minute": "65",
+
+      "language": "Arabic",
+
+      "thumbnail": "https://example.com/match.jpg",
+
+      "servers": [
+        {
+          "name": "Server 1",
+          "type": "m3u8",
+          "url": "https://example.com/live1.m3u8",
+          "priority": 1,
+          "enabled": true
+        },
+        {
+          "name": "Server 2",
+          "type": "ts",
+          "url": "https://example.com/live2.ts",
+          "priority": 2,
+          "enabled": true
+        },
+        {
+          "name": "Server 3",
+          "type": "iframe",
+          "url": "https://example.com/embed",
+          "priority": 3,
+          "enabled": false
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "enabled": true,
+      "hidden": false,
+      "order": 2,
+
+      "competition": "Premier League",
+      "competition_logo": "https://example.com/epl.png",
+
+      "home_team": "Manchester City",
+      "home_logo": "https://example.com/city.png",
+
+      "away_team": "Liverpool",
+      "away_logo": "https://example.com/liverpool.png",
+
+      "match_time": "18:30",
+      "match_date": "2026-08-02",
+
+      "status": "UPCOMING",
+      "minute": "",
+
+      "language": "Arabic",
+
+      "thumbnail": "https://example.com/eplmatch.jpg",
+
+      "servers": [
+        {
+          "name": "Server 1",
+          "type": "m3u8",
+          "url": "https://example.com/epl.m3u8",
+          "priority": 1,
+          "enabled": true
+        }
+      ]
+    }
+  ]
+}
