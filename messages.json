@@ -3,7 +3,7 @@
     "enabled": true,
     "title": "Welcome",
     "message": "Welcome to Tinghir TV",
-    "show_once": true
+    "show_once": false
   },
 
   "announcement": {
