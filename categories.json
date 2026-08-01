@@ -12,14 +12,14 @@
       "name": "ALWAN SPORT",
       "logo": "https://...",
       "enabled": true,
-      "order": 1
+      "order": 2
     },
     {
       "id": "sports",
       "name": "THMANYAH",
       "logo": "https://...",
       "enabled": true,
-      "order": 2
+      "order": 3
     }
   ]
 }
