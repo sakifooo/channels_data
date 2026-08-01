@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "title": "Facebook",
+      "enabled": true,
+      "icon": "facebook",
+      "url": "https://facebook.com/yourpage"
+    },
+    {
+      "title": "Telegram",
+      "enabled": true,
+      "icon": "telegram",
+      "url": "https://t.me/yourchannel"
+    },
+    {
+      "title": "Contact Us",
+      "enabled": true,
+      "icon": "email",
+      "url": "mailto:contact@tinghirtv.site"
+    },
+    {
+      "title": "Website",
+      "enabled": true,
+      "icon": "language",
+      "url": "https://tinghirtv.site"
+    }
+  ]
+}
