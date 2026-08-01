@@ -1,0 +1,90 @@
+{
+  "welcome": {
+    "enabled": true,
+    "title": "Welcome",
+    "message": "Welcome to Tinghir TV",
+    "show_once": true
+  },
+
+  "announcement": {
+    "enabled": false,
+    "title": "Announcement",
+    "message": "",
+    "button_text": "OK"
+  },
+
+  "maintenance": {
+    "enabled": false,
+    "title": "Maintenance",
+    "message": "The application is currently under maintenance. Please try again later.",
+    "button_text": "OK"
+  },
+
+  "server_offline": {
+    "enabled": true,
+    "title": "Server Offline",
+    "message": "This channel is temporarily unavailable.",
+    "button_text": "OK"
+  },
+
+  "internet": {
+    "enabled": true,
+    "title": "No Internet",
+    "message": "Please check your internet connection.",
+    "button_text": "Retry"
+  },
+
+  "update": {
+    "enabled": true,
+    "title": "Update Available",
+    "message": "A new version of Tinghir TV is available.",
+    "button_text": "Update"
+  },
+
+  "force_update": {
+    "enabled": false,
+    "title": "Update Required",
+    "message": "You must update the application to continue.",
+    "button_text": "Update"
+  },
+
+  "custom_popup": {
+    "enabled": false,
+    "title": "",
+    "message": "",
+    "button_text": "OK"
+  },
+
+  "live_message": {
+    "enabled": false,
+    "title": "Live Notice",
+    "message": "",
+    "button_text": "Continue"
+  },
+
+  "exit_dialog": {
+    "enabled": true,
+    "title": "Exit",
+    "message": "Are you sure you want to exit?",
+    "yes": "Yes",
+    "no": "No"
+  },
+
+  "favorite": {
+    "added": "Added to Favorites",
+    "removed": "Removed from Favorites"
+  },
+
+  "errors": {
+    "playback": "Playback Error",
+    "loading": "Loading...",
+    "retry": "Retrying...",
+    "unknown": "Unknown Error"
+  },
+
+  "toast": {
+    "enabled": true,
+    "channel_changed": "Channel Changed",
+    "category_changed": "Category Changed"
+  }
+}
