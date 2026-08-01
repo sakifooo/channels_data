@@ -23,56 +23,56 @@
     },
     {
       "id": "morocco",
-      "name": "MOROCCO",
+      "name": "Morocco",
       "logo": "https://flagcdn.com/w320/ma.png",
       "enabled": true,
       "order": 4
     },
     {
       "id": "algeria",
-      "name": "ALGERIA",
+      "name": "Algeria",
       "logo": "https://flagcdn.com/w320/dz.png",
       "enabled": true,
       "order": 5
     },
     {
       "id": "tunisia",
-      "name": "TUNISIA",
+      "name": "Tunisia",
       "logo": "https://flagcdn.com/w320/tn.png",
       "enabled": true,
       "order": 6
     },
     {
       "id": "libya",
-      "name": "LIBYA",
+      "name": "Libya",
       "logo": "https://flagcdn.com/w320/ly.png",
       "enabled": true,
       "order": 7
     },
     {
       "id": "egypt",
-      "name": "EGYPT",
+      "name": "Egypt",
       "logo": "https://flagcdn.com/w320/eg.png",
       "enabled": true,
       "order": 8
     },
     {
       "id": "saudi_arabia",
-      "name": "SAUDI ARABIA",
+      "name": "Saudi Arabia",
       "logo": "https://flagcdn.com/w320/sa.png",
       "enabled": true,
       "order": 9
     },
     {
       "id": "united_arab_emirates",
-      "name": "UNITED ARAB EMIRATES",
+      "name": "United Arab Emirates",
       "logo": "https://flagcdn.com/w320/ae.png",
       "enabled": true,
       "order": 10
     },
     {
       "id": "qatar",
-      "name": "QATAR",
+      "name": "Qatar",
       "logo": "https://flagcdn.com/w320/qa.png",
       "enabled": true,
       "order": 11
