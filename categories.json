@@ -1,0 +1,18 @@
+{
+  "categories": [
+    {
+      "id": "sports",
+      "name": "ALWAN SPORT",
+      "logo": "https://...",
+      "enabled": true,
+      "order": 1
+    },
+    {
+      "id": "thmanyah",
+      "name": "THMANYAH",
+      "logo": "https://...",
+      "enabled": true,
+      "order": 2
+    }
+  ]
+}
