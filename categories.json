@@ -2,13 +2,20 @@
   "categories": [
     {
       "id": "sports",
+      "name": "BEIN SPORT",
+      "logo": "https://...",
+      "enabled": true,
+      "order": 1
+    },
+    {
+      "id": "sports",
       "name": "ALWAN SPORT",
       "logo": "https://...",
       "enabled": true,
       "order": 1
     },
     {
-      "id": "thmanyah",
+      "id": "sports",
       "name": "THMANYAH",
       "logo": "https://...",
       "enabled": true,
