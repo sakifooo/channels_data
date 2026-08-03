@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "title": "Live Matches",
+  "title": "Live",
   "logo": "https://yourdomain.com/live.png",
   "order": 1,
   "auto_refresh": true,
