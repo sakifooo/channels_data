@@ -329,11 +329,11 @@
     ]
   },
   {
-    "country": "Libya",
+    "country": "gim",
     "channels": [
       {
         "name": "Al Masar TV (576p)",
-        "url": "https://starmenajo.com/hls/almasar/index.m3u8"
+        "url": "https://geo.dailymotion.com/player.html?video=x96m3l0"
       },
       {
         "name": "Libya Al Wataniya (360p)",
