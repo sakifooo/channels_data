@@ -49,8 +49,8 @@
         },
         {
           "name": "Server 3",
-          "type": "youtube",
-          "url": "dailymotion.com/embed/video/x96m3l0",
+          "type": "iframe",
+          "url": "https://geo.dailymotion.com/player.html?video=x96m3l0",
           "priority": 3,
           "enabled": true
         }
