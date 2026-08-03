@@ -331,10 +331,11 @@
   {
     "country": "gim",
     "channels": [
-      {
-        "name": "Al Masar TV (576p)",
-        "url": "https://geo.dailymotion.com/player.html?video=x96m3l0"
-      },
+     {
+       "name": "Al Masar TV (576p)",
+       "type": "iframe",
+       "url": "https://geo.dailymotion.com/player.html?video=x96m3l0"
+     },
       {
         "name": "Libya Al Wataniya (360p)",
         "url": "https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8"
