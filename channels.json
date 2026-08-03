@@ -333,7 +333,8 @@
     "channels": [
       {
         "name": "Al Masar TV (576p)",
-        "streamsJson": "[{\"name\":\"Server 1\",\"type\":\"iframe\",\"url\":\"https://geo.dailymotion.com/player.html?video=x96m3l0\"}]"
+          "type": "iframe",
+          "url": "https://geo.dailymotion.com/player/x84sh87.html?video=x96m3l0"
       },
       {
         "name": "Libya Al Wataniya (360p)",
