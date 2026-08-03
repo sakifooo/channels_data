@@ -3,6 +3,15 @@
     "name": "Tinghir TV",
     "version": "1.0.0",
     "maintenance": false,
-    "welcome_message": "Welcome to Tinghir TV"
+    "welcome_message": "Welcome to Tinghir TV",
+
+    "logo": "https://yourdomain.com/logo.png",
+    "splash_logo": "https://yourdomain.com/splash_logo.png",
+
+    "powered_by": {
+      "text": "Powered by Ouskare",
+      "color": "#FFFFFF",
+      "size": 14
+    }
   }
 }
