@@ -50,7 +50,7 @@
         {
           "name": "Server 3",
           "type": "iframe",
-          "url": "https://geo.dailymotion.com/player.html?video=x96m3l0",
+          "url": "https://player.vimeo.com/video/317147992",
           "priority": 3,
           "enabled": true
         }
