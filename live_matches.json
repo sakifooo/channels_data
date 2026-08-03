@@ -50,7 +50,7 @@
         {
           "name": "Server 3",
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=rciwnpI3IU8",
+          "url": "rciwnpI3IU8",
           "priority": 3,
           "enabled": true
         }
