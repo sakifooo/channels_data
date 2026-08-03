@@ -52,7 +52,7 @@
           "type": "iframe",
           "url": "https://www.youtube.com/embed/aqz-KE-bpKQ?autoplay=1",
           "priority": 3,
-          "enabled": false
+          "enabled": true
         }
       ]
     },
