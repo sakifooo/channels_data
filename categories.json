@@ -1,78 +1,78 @@
 {
   "categories": [
     {
-      "id": "bein_sports",
-      "name": "beIN SPORTS",
+      "id": "Bodybuilding",
+      "name": "💪 Bodybuilding",
       "logo": "http://kinglogo.newtvhd.com/logoo/BEIN4K/HD/bein%20sports%20HD.png",
       "enabled": true,
       "order": 1
     },
     {
-      "id": "alwan_sport",
-      "name": "ALWAN SPORT",
+      "id": "Strength Training",
+      "name": "🏋️ Strength Training",
       "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png",
       "enabled": true,
       "order": 2
     },
     {
-      "id": "thmanyah",
-      "name": "THMANYAH",
+      "id": "Cardio & Endurance",
+      "name": "🏃 Cardio & Endurance",
       "logo": "https://www.wzufa.com/wp-content/uploads/2025/07/Thmanyah.png",
       "enabled": true,
       "order": 3
     },
     {
-      "id": "morocco",
-      "name": "Morocco",
+      "id": "Fat Loss & Weight Loss",
+      "name": "🔥 Fat Loss & Weight Loss",
       "logo": "https://flagcdn.com/w320/ma.png",
       "enabled": true,
       "order": 4
     },
     {
-      "id": "algeria",
-      "name": "Algeria",
+      "id": "Nutrition & Diet",
+      "name": "🥗 Nutrition & Diet",
       "logo": "https://flagcdn.com/w320/dz.png",
       "enabled": true,
       "order": 5
     },
     {
-      "id": "tunisia",
-      "name": "Tunisia",
+      "id": "Yoga & Flexibility",
+      "name": "🧘 Yoga & Flexibility",
       "logo": "https://flagcdn.com/w320/tn.png",
       "enabled": true,
       "order": 6
     },
     {
-      "id": "Gim",
-      "name": "gim",
+      "id": "Running & Walking",
+      "name": "🏃‍♂️ Running & Walking",
       "logo": "https://flagcdn.com/w320/ly.png",
       "enabled": true,
       "order": 7
     },
     {
-      "id": "egypt",
-      "name": "Egypt",
+      "id": "Home Workouts",
+      "name": "🤸 Home Workouts",
       "logo": "https://flagcdn.com/w320/eg.png",
       "enabled": true,
       "order": 8
     },
     {
-      "id": "saudi_arabia",
-      "name": "Saudi Arabia",
+      "id": "Health & Wellness",
+      "name": "❤️ Health & Wellness",
       "logo": "https://flagcdn.com/w320/sa.png",
       "enabled": true,
       "order": 9
     },
     {
-      "id": "united_arab_emirates",
-      "name": "United Arab Emirates",
+      "id": "Combat Sports",
+      "name": "🥊 Combat Sports",
       "logo": "https://flagcdn.com/w320/ae.png",
       "enabled": true,
       "order": 10
     },
     {
-      "id": "qatar",
-      "name": "Qatar",
+      "id": "Fitness Tips & Motivation",
+      "name": "📈 Fitness Tips & Motivation",
       "logo": "https://flagcdn.com/w320/qa.png",
       "enabled": true,
       "order": 11
