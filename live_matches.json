@@ -50,7 +50,7 @@
         {
           "name": "Server 3",
           "type": "iframe",
-          "url": "https://player.vimeo.com/video/317147992?app_id=122963",
+          "url": "https://fast.wistia.net/embed/iframe/tztjsjp32b",
           "priority": 3,
           "enabled": true
         }
