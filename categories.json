@@ -10,70 +10,70 @@
     {
       "id": "Strength Training",
       "name": "🏋️ Strength Training",
-      "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png",
+      "logo": "https://images.vexels.com/media/users/3/132665/isolated/preview/cf0b4b825cd99b7e00ccf5cad3e7a014-weightlifting-circle-icon.png",
       "enabled": true,
       "order": 2
     },
     {
       "id": "Cardio & Endurance",
       "name": "🏃 Cardio & Endurance",
-      "logo": "https://www.wzufa.com/wp-content/uploads/2025/07/Thmanyah.png",
+      "logo": "https://img.magnific.com/premium-vector/colorful-silhouette-running-figure_53876-350551.jpg?semt=ais_test_b&w=740&q=80",
       "enabled": true,
       "order": 3
     },
     {
       "id": "Fat Loss & Weight Loss",
       "name": "🔥 Fat Loss & Weight Loss",
-      "logo": "https://flagcdn.com/w320/ma.png",
+      "logo": "https://www.freepnglogos.com/uploads/fire-png/fire-torch-png-34.png",
       "enabled": true,
       "order": 4
     },
     {
       "id": "Nutrition & Diet",
       "name": "🥗 Nutrition & Diet",
-      "logo": "https://flagcdn.com/w320/dz.png",
+      "logo": "https://cdn-icons-png.flaticon.com/512/9756/9756984.png",
       "enabled": true,
       "order": 5
     },
     {
       "id": "Yoga & Flexibility",
       "name": "🧘 Yoga & Flexibility",
-      "logo": "https://flagcdn.com/w320/tn.png",
+      "logo": "https://static.vecteezy.com/system/resources/thumbnails/053/716/779/small/silhouette-of-a-person-practicing-yoga-in-a-blue-color-meditation-pose-promoting-wellness-peace-and-mindfulness-in-a-serene-setting-png.png",
       "enabled": true,
       "order": 6
     },
     {
       "id": "Running & Walking",
       "name": "🏃‍♂️ Running & Walking",
-      "logo": "https://flagcdn.com/w320/ly.png",
+      "logo": "https://static.vecteezy.com/system/resources/thumbnails/053/120/949/small/athlete-runner-silhouette-free-png.png",
       "enabled": true,
       "order": 7
     },
     {
       "id": "Home Workouts",
       "name": "🤸 Home Workouts",
-      "logo": "https://flagcdn.com/w320/eg.png",
+      "logo": "https://cdn-icons-png.flaticon.com/512/3043/3043210.png",
       "enabled": true,
       "order": 8
     },
     {
       "id": "Health & Wellness",
       "name": "❤️ Health & Wellness",
-      "logo": "https://flagcdn.com/w320/sa.png",
+      "logo": "https://png.pngtree.com/png-vector/20220428/ourmid/pngtree-smooth-glossy-heart-vector-file-ai-and-png-png-image_4557871.png",
       "enabled": true,
       "order": 9
     },
     {
       "id": "Combat Sports",
       "name": "🥊 Combat Sports",
-      "logo": "https://flagcdn.com/w320/ae.png",
+      "logo": "https://images.scalebranding.com/american-boxing-fighter-logo-01KWS3GWWNC9GV6XHQNCW9YYKD-thumbnail.png",
       "enabled": true,
       "order": 10
     },
     {
       "id": "Fitness Tips & Motivation",
       "name": "📈 Fitness Tips & Motivation",
-      "logo": "https://flagcdn.com/w320/qa.png",
+      "logo": "https://cdn-icons-png.flaticon.com/512/8386/8386389.png",
       "enabled": true,
       "order": 11
     }
