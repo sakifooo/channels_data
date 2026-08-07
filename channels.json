@@ -1868,11 +1868,11 @@
     "country": "🏋️ Strength Training",
     "channels": [
       {
-        "name": "AR| ALWAN SPORT 1 FHD",
-        "type": "ts",
-        "url": "http://pluton-ott.net//live/7622043304/2171229368/493324.ts",
+        "name": "VIDEO 1",
+        "type": "iframe",
+        "url": "https://fast.wistia.net/embed/iframe/pac3sfdz04",
         "stream_id": 493324,
-        "logo": "http://kinglogo.newtvhd.com/logoo/AL%20MAJD/ALWAN.png"
+        "logo": ""
       },
       {
         "name": "AR| ALWAN SPORT 1 HD",
