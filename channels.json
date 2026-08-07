@@ -309,9 +309,9 @@
     "country": "🥗 Nutrition & Diet",
     "channels": [
       {
-        "name": "AL24 News",
-        "type": "m3u8",
-        "url": "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8"
+        "name": "video 1",
+        "type": "iframe",
+        "url": "https://odysee.com/%24/embed/%40CatholicFamilyPodcast%3Ac%2Fcatholicism%2C-nutrition-and-the-all-meat%3Ae?r=89yTtrihPn5uDaCq319ZzdyufUoCoWCm"
       },
       {
         "name": "Amou Yazid TV (576p)",
